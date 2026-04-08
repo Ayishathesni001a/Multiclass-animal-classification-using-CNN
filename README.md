@@ -1,5 +1,5 @@
 # Multiclass-animal-classification-using-CNN
-# Multi-Class Animal Classification using CNN
+
 
 A TensorFlow/Keras deep learning project that classifies **15 different animal species** from images using a **Custom Convolutional Neural Network (CNN)**.
 
